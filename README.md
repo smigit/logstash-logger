@@ -2,6 +2,8 @@
 We need this gem loaded from github until v0.9.0 not released!
 It's **VERY IMPORTANT***
 
+When 0.9.0 will be released we may use it from rubygems.org and delete this repo.
+
 # LogStashLogger
 [![Build Status](https://travis-ci.org/dwbutler/logstash-logger.png?branch=master)](https://travis-ci.org/dwbutler/logstash-logger) [![Code Climate](https://codeclimate.com/github/dwbutler/logstash-logger.png)](https://codeclimate.com/github/dwbutler/logstash-logger)
 
