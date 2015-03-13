@@ -1,3 +1,7 @@
+# ATTENTION!
+We need this gem loaded from github until v0.9.0 not released!
+It's **VERY IMPORTANT***
+
 # LogStashLogger
 [![Build Status](https://travis-ci.org/dwbutler/logstash-logger.png?branch=master)](https://travis-ci.org/dwbutler/logstash-logger) [![Code Climate](https://codeclimate.com/github/dwbutler/logstash-logger.png)](https://codeclimate.com/github/dwbutler/logstash-logger)
 
